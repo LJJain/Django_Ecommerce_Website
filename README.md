@@ -20,7 +20,7 @@
 
 > 2022.10.04
 
-    - 加入購物車功能
+    - 添加功能邏輯
 
 ## 筆記
 
@@ -66,10 +66,11 @@
     - MEDIA_URL = '/images/' (settings.py)
     - 修改root/urls.py
 
-> 加入購物車
+> 加入購物車功能製作
 
     - 建立 js/cart.js
     - main.html 載入 carts.js
+    - https://www.youtube.com/watch?v=woORrr3QNh8&list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng&index=5&t=920s&ab_channel=DennisIvy
 
 ## 參考資料
 
