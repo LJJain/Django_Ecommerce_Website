@@ -18,6 +18,10 @@
     - 建立模組 models.py
     - 商品展示 & 購物車功能 & 結帳 (修改views.py & html)
 
+> 2022.10.04
+
+    - 加入購物車功能
+
 ## 筆記
 
 > 建立專案(ecommerce) & 新增 app(store)
@@ -61,6 +65,11 @@
     - 上傳照片: 測試是否會自動傳入images資料夾裡
     - MEDIA_URL = '/images/' (settings.py)
     - 修改root/urls.py
+
+> 加入購物車
+
+    - 建立 js/cart.js
+    - main.html 載入 carts.js
 
 ## 參考資料
 
