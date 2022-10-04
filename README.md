@@ -21,6 +21,7 @@
 > 2022.10.04
 
     - 添加功能邏輯
+    - 訪客購物車資訊 -> 利用cookie
 
 ## 筆記
 
@@ -71,6 +72,16 @@
     - 建立 js/cart.js
     - main.html 載入 carts.js
     - https://www.youtube.com/watch?v=woORrr3QNh8&list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng&index=5&t=920s&ab_channel=DennisIvy
+
+> 訪客購物車資訊
+
+    - https://www.youtube.com/watch?v=kH2FOWuA4uI&list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng&index=5&ab_channel=DennisIvy
+    - 獲取cookie (js) : function getCookie(name){} -> main.html
+    - js邏輯修改 (cart.js) & views.py
+
+> 重複代碼 繼承(utils.py)
+
+    - D.R.Y(Don't Repeat Yourself)技術
 
 ## 參考資料
 
