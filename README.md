@@ -22,6 +22,7 @@
 
     - 添加功能邏輯
     - 訪客購物車資訊 -> 利用cookie
+    - 建立 支付功能 (paypalapi)
 
 ## 筆記
 
@@ -82,6 +83,11 @@
 > 重複代碼 繼承(utils.py)
 
     - D.R.Y(Don't Repeat Yourself)技術
+
+> 支付功能 (paypal)
+
+    - button code: https://developer.paypal.com/demo/checkout/#/pattern/client
+    - button style: https://developer.paypal.com/docs/archive/checkout/how-to/customize-button/#supported-locales
 
 ## 參考資料
 
